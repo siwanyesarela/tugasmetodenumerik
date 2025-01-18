@@ -3,6 +3,9 @@ import numpy as np
 import sympy as sp
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
+echo "sympy" >> requirements.txt
+echo "streamlit" >> requirements.txt
+
 
 # Header aplikasi
 st.markdown("""
